@@ -20,3 +20,5 @@ end
 
 fido = Dog.new
 fido.sit 
+
+end 
