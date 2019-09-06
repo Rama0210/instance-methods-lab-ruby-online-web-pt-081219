@@ -12,6 +12,7 @@ end
  
 fido = Dog.new
 fido.bark 
+
 class Dog
 def sit 
   puts "The Dog os sitting"
